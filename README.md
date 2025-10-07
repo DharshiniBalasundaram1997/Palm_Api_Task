@@ -1,4 +1,4 @@
-# Palm_Api_Task
+# Api_Task
 
 # API Testing with Python and Pytest
 
